@@ -32,5 +32,5 @@
 
 <!-- Streak -->
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=raihannafi712)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=raihannafi712)](https://git.io/streak-stats)
 </p>
